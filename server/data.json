@@ -1,0 +1,33 @@
+{
+    "wind":50,
+    "humidity":64.123,
+    "pressure":987.5,
+    "data":[
+        {
+            "temp":300,
+            "weather":"Rainy",
+            "hour":"09:00"
+        },
+        {
+            "temp":301,
+            "weather":"Cloudy",
+            "hour":"10:00"
+        },
+        {
+            "temp":302,
+            "weather":"Sunny",
+            "hour":"11:00"
+        },
+        {
+            "temp":300,
+            "weather":"Cloudy",
+            "hour":"12:00"
+        },
+        {
+            "temp":300,
+            "weather":"Sunny",
+            "hour":"13:00"
+        }
+    ]
+    
+}
